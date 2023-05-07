@@ -20,3 +20,4 @@ cevap :
 3.Projenizde kullanacığınız muhtemel veritabanı tabloları neler olacaktır ??
 cevap :
 
+![data](https://user-images.githubusercontent.com/97438934/236685279-ae2fbb63-d7f0-4e75-a990-5b9c5fa9ee79.png)
